@@ -1,0 +1,37 @@
+We are documenting a Python code repository, reviewing each file systematically. 
+
+We have already prepared a running summary for already seen file from repo in a structured format of a README.md, given below:
+
+```{summary}```
+
+We will be looking at a description for the current code file, please try to append relevant information from the current code file description to the supplied running summary.
+When appending information, please adhere to the requirement below:
+
+**Summary**:
+- Preserve exisitng content in this section.
+- Update the summary to reflect new insights, maintaining a clear and objective overview of the project's purpose and scope. Consider how the new file fits into and enhances the overall project narrative.
+
+
+**Technology Stack**:
+- Preserve exisitng content in this section.
+- Detail any new technologies introduced in the current file. Describe how these technologies integrate with and enhance the existing technology stack.
+
+
+**Engineering Highlights**:
+- Preserve exisitng content in this section.
+- Include significant engineering decisions or achievements identified in the current file analysis. Describe these in a factual manner, highlighting their importance to the project.
+
+
+**Features**:
+- Preserve exisitng content in this section.
+- List new features or functionalities discovered in the current file analysis. Describe these features objectively, emphasizing their unique aspects and benefits.
+
+
+**Usage**:
+- Preserve exisitng content in this section.
+- If the current file introduces new usage scenarios or important code snippets, add them here.
+- Be specific when documenting usage, for example, "what code file use what code to achieve what functionality" is a good amount details.
+
+Below is the code summary for the current code file we are looking at:
+
+```{description}```

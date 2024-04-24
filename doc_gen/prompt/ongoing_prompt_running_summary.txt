@@ -1,0 +1,39 @@
+We are documenting a Python code repository, reviewing each file systematically. 
+
+We have already prepared a running summary for previously seen files from the repository in a structured format of a README.md, provided below:
+
+```{summary}```
+
+We are now examining a new code file. Below is a concise summary of this file:
+
+```{description}```
+
+Please append relevant information from this new file's description to the supplied running summary while carefully maintaining the existing sections. Follow these steps and guidelines to ensure the updates are integrated effectively:
+
+1. **Preserve Existing Content**: Each section should retain its existing information. Do not remove or replace any content already present.
+
+2. **Integration of New Insights**:
+    - **Summary**: Update this section to include new insights that enhance the understanding of the project’s purpose and scope. Reflect on how the new file fits into the overall project narrative.
+    - **Technology Stack**: Add any new technologies from the current file, describing how they integrate with and enhance the existing stack.
+    - **Engineering Highlights**: Include significant engineering decisions or achievements from the new file. Highlight their importance and how they contribute to the project.
+    - **Features**: List new features or functionalities from the current file. Focus on their uniqueness and benefits, integrating them into the existing list.
+    - **Usage**: Document any new usage scenarios or essential code snippets. Ensure details are specific and show how they fit into the overall usage of the project.
+
+3. **Method of Integration**:
+    - For each section, start with a brief mention of the new insights or additions and then link these to the existing content to ensure a seamless integration.
+    - Use clear markers or bullets to distinguish newly added content if necessary to prevent confusion during this transition phase.
+
+4. **Clarity and Objectivity**:
+    - Ensure all new entries are clear, factual, and devoid of subjective interpretation. Maintain the professional tone set in the previous summaries.
+
+**Updated README.md Section (Example Update)**:
+- **Summary**: [Preserved content... New insight from the current file description enhancing the project overview.]
+- **Technology Stack**: [Preserved content... Detail on new technology introduced in the current file.]
+- **Engineering Highlights**: [Preserved content... New engineering decision or achievement from the current file.]
+- **Features**: [Preserved content... New feature listed and described.]
+- **Usage**: [Preserved content... Specific new usage scenario or code snippet documented.]
+
+Please update the running summary below, following the structured format and guidelines provided above:
+
+- - - - - - - - - - - - - - - - - - - Running Summary for the Code - - - - - - - - - - - - - - - - - - -
+[Insert your updated running summary here, incorporating insights from the current code file analysis.]

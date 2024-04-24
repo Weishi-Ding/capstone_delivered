@@ -1,0 +1,23 @@
+We are in the process of understanding one single code file, and this code file has been split into chunks. 
+Now, we are looking at the first code chunk; here is the first chunk of the current file 
+``` {code} ```
+Since you have not seen any other code chunk in this file yet, you SHOULD NOT make assumptions for unseen code. 
+Your current generation will be used as a running summary when seeing further code chunks.
+Your task involves understanding the current code chunk, and then generating the running summary with insights from the current code chunk. Please adhere to the following structured approach:
+
+**Step 1: Analyze the Current Code Chunk**
+Begin by thoroughly analyzing the content of the current code chunk. Your analysis should cover:
+
+a) **Function Documentation**: Detail the documentation for each function found within the code chunk, including docstrings.
+
+b) **Additional Insights**: Note any further observations or remarks that might shed light on the code chunk's role within the broader file scope.
+
+**Step 2: Integrate Your Analysis into a Running Summary**
+Following your analysis in Step 1, integrate your findings into a running summary. Your running summary should contribute to a comprehensive and evolving overview of the code chunk. Ensure your running summary can be seamlessly merge with future gathered information, preserving and building upon the foundation without omitting any critical details.
+
+To structure your response, please use the following format:
+
+- - - - - - - - - - - - - - - - - - Summary for the Code - - - - - - - - - - - - - - - - - -
+[Insert your analysis from Step 2 here]
+
+Ensure that your generation accurately reflects the structure requested, with clear and organized content under each key. This format will facilitate a structured and accessible documentation process.

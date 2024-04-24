@@ -1,0 +1,28 @@
+**Code File Overview**:
+This code file appears to focus on data preprocessing and feature engineering for stock trading data. It includes functions for normalizing columns, calculating moving averages, processing data for neural network input, and adjusting data formats. These operations are crucial for preparing the data before feeding it into the Q-learning models for training and evaluation.
+
+**Function Documentation**:
+
+1. `normalize_column(column)`
+   - **Description**: Normalizes a given column by scaling its values between 0 and 1.
+   - **Parameters**:
+     - `column`: Pandas Series representing a column of data.
+   - **Returns**: Normalized column values.
+
+2. `add_avg(df)`
+   - **Description**: Calculates the moving average of the 'close' price column over a window of 5 days and adds it as a new column 'avg' to the dataframe.
+   - **Parameters**:
+     - `df`: Pandas DataFrame containing stock trading data.
+   - **Returns**: DataFrame with the 'avg' column added.
+
+3. `process_data(df, test=False)`
+   - **Description**: Processes the input dataframe by dropping NaN values, resetting the index, normalizing columns, and preparing the data for neural network input.
+   - **Parameters**:
+     - `df`: Pandas DataFrame containing stock trading data.
+     - `test`: Boolean flag indicating whether the data is for testing purposes.
+   - **Returns**: Processed DataFrame ready for neural network input.
+
+**Additional Insights**:
+- The functions in this code file focus on data preprocessing steps specific to stock trading data, such as normalization, moving average calculation, and feature transformation. These operations are essential for ensuring that the data is in a suitable format for training the Q-learning models effectively.
+- The inclusion of functions like `normalize_column` and `add_avg` showcases the attention to detail in preparing the data for subsequent analysis and model training. These functions contribute to creating meaningful features that can potentially improve the performance of the reinforcement learning algorithms.
+- The `process_data` function encapsulates multiple data processing steps, indicating a structured approach to handling the input data. By incorporating normalization and feature engineering within this function, the code file streamlines the data preparation process for the neural network models, enhancing the overall efficiency of the training pipeline.

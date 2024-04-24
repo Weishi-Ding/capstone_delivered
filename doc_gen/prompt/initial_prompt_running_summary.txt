@@ -1,0 +1,26 @@
+We are documenting a Python code repository, reviewing each file systematically. Now, we are looking at the first code file.
+
+Below is the code summary for the first code file we are looking at:
+
+```{description}```
+
+Based on the analysis of the current code file, your task is now to compose the initial running summary. This running summary should contribute to a comprehensive and evolving overview of the code repository as the language model see more and more files.
+
+As you integrate insights from the new code file, ensure that the updates adhere to the README format, maintaining a balanced and comprehensive documentation that evolves with each file:
+
+**Summary**:
+- Compose the summary to reflect insights you gained from looking at the code summary, maintaining a clear and objective overview of the project's purpose and scope.
+- As you have yet to seen code summary for any other file, do not make assumptions on unseen content.
+
+**Technology Stack**:
+- Detail any new technologies introduced in the current file. Describe how these technologies integrate with and enhance the existing technology stack.
+
+**Engineering Highlights**:
+- Include significant engineering decisions or achievements identified in the current file analysis. Describe these in a factual manner, highlighting their importance to the project.
+
+**Features**:
+- List new features or functionalities discovered in the current file analysis. Describe these features objectively, emphasizing their unique aspects and benefits.
+
+**Usage**:
+- If the current file introduces usage of important code snippets, document them.
+- Be specific when documenting usage, for example, "what code file use what code to achieve what functionality" is a good amount details.

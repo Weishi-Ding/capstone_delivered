@@ -1,0 +1,33 @@
+{
+    "root": {
+        "files": [
+            "README.md",
+            "Zichen.md"
+        ],
+        "dirs": [
+            "sample_repo"
+        ]
+    },
+    "sample_repo": {
+        "files": [
+            ".DS_Store",
+            "DQN.py",
+            "agent.py",
+            "env.py",
+            "main.py",
+            "portfolio.py",
+            "utils.py"
+        ],
+        "dirs": [
+            "data_processing"
+        ]
+    },
+    "data_processing": {
+        "files": [
+            "backtest.py",
+            "data_process.py",
+            "k_armed.ipynb"
+        ],
+        "dirs": []
+    }
+}

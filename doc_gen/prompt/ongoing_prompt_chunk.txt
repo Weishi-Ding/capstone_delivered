@@ -1,0 +1,32 @@
+We are in the process of understanding a Python code file, examining one code chunk at a time.
+Up to this point, we've prepared a running summary based on previously reviewed code chunks.
+Below is the current state of our running summary:
+
+```{summary}```
+
+We are now moving on to analyze a new, previously unseen code chunk.
+Here is the content of this code chunk:
+
+``` {code} ```
+
+As we have not yet reviewed the entire file, it's crucial to avoid making assumptions about any code chunks that have not been examined.
+
+Your task involves generating a code summary specific to the current code chunk, as well as updating the running summary with insights from a newly examined code chunk.
+
+Please adhere to the following approach:
+
+**Step 1: Analyze the Current Code Chunk**
+Begin by thoroughly analyzing the content of the current code chunk. Your analysis should cover:
+
+a) **Function Documentation**: Detail the documentation for each function found within the code file, including docstrings.
+
+b) **Additional Insights**: Note any further observations or remarks that might shed light on the code file's role within the broader project scope.
+
+**Step 2: Integrate Your Analysis into the Running Summary**
+Following your analysis in Step 1, integrate your findings into the provided running summary. Your update should enhance the existing documentation, contributing to a comprehensive and evolving overview of the code chunk. Ensure your additions seamlessly merge with previously gathered information, preserving and building upon the foundation without omitting any critical details.
+
+To structure your response, please use the following specific format:
+- - - - - - - - - - - - - - - - - - Summary for the Code - - - - - - - - - - - - - - - - - - -
+[Insert your analysis from Step 2 here]
+
+Ensure that your generation accurately reflects the structure requested, with clear and organized content under each key. This format will facilitate a structured and accessible documentation process.

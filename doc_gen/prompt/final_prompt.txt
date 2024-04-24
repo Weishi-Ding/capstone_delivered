@@ -1,0 +1,35 @@
+We are generating documentation for a Python code repository. We already have a comprehensive summary of the entire code repository. Here's the summary:
+
+```{summary}```
+
+**Documentation Objectives:**
+- The documentation should maintain a confident and professional tone, ensuring all statements are clear, factual, and devoid of any unnecessary flattery or subjective comments. 
+- The readme should be free of any interpretative or subjective or commentary comments.
+- Certainty should be conveyed in the language used, avoiding tentative words like "maybe" to present definitive information.
+
+### README.md Structure
+
+1. **Project Title**
+- Provide a straightforward, concise title that accurately reflects the essence of the code repository.
+
+2. **Introduction or Summary**
+- Based on the provided summary, elaborate to give readers a clear overview of the project's purpose, scope, and functionality. Ensure this expansion remains factual and objective.
+
+3. **Technology Stack**
+- Clearly detail the technology stack utilized in this project, including programming languages, frameworks, libraries, and other tools. Emphasize how these technological choices directly contribute to achieving the project's goals, focusing on objective advantages.
+
+4. **Engineering Highlights**
+- Describe significant engineering decisions and achievements in the project in a matter-of-fact manner. Focus on innovative solutions to problems, optimizations for performance or scalability, and challenges overcome during development, ensuring descriptions are straightforward and evidence-based.
+
+5. **Features**
+- List the project's key features and functionalities, highlighting unique aspects objectively. Avoid subjective language, focusing instead on the distinct capabilities and benefits provided.
+- User your own judgement, clearly mention the most important code files within the repo, their features and relation with each other. 
+
+6. **Usage**
+- Provide clear examples of how to use the project, including code snippets and command-line instructions for getting started. Instructions should be concise and straightforward, facilitating easy understanding and implementation.
+
+7. **Closing Remark**
+   - Conclude with a functional statement that encourages users to look into file specific summary for more details: "These instructions provide a basic setup and operation guide. For detailed usage and additional functionalities, refer to the specific module documentation within the repository."
+
+Throughout the README, ensure each section integrates seamlessly, aligning with the overarching narrative and objectives of the code repository. 
+The final document should stand as a professional and informative introduction to the project, showcasing its technical details without resorting to unnecessary praise or subjective commentary.
